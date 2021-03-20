@@ -2,7 +2,7 @@
 
 - Curso Online. Todas las cátedras seran tutoriales de tecnologías aplicadas a data science.
 - Las evaluaciones serán laboratorios en horario de auxiliar y tareas.
-- Como en un entorno real, la colaboración es fundamental para resolver problemas. Por lo mismo, todas las evaluaciones serán grupales. (Aún está por definir el tamaño de los equipos). 
+- Como en un entorno real, la colaboración es fundamental para resolver problemas. Por lo mismo, todas las evaluaciones serán en grupos de dos; solamente un grupo podra estar conformado por tres personas debido a la cantidad de integrantes del curso. 
 - El objetivo es que aprendan a medida que implementan. Por lo mismo, está prohibida la copia. 
 
 ## Canales de comunicación
@@ -20,7 +20,7 @@ Las evaluaciones se compondrán de:
 
 La nota final se calcula como 
 
-        NF = 50 lab + 50% tarea.
+        NF = 50% lab + 50% tarea.
 
 Se debe aprobar ambos items por separado para pasar de curso.
 
